@@ -49,7 +49,8 @@ Authors
 - Vitaly Puzrin - [@puzrin](https://github.com/puzrin)
 
 
-License
--------
+## License and Copyright
 
-[MIT](https://github.com/fontello/cubic2quad/blob/master/LICENSE)
+This software is released under the terms of the [MIT license](https://github.com/IDationTech/cubic2quad/blob/master/LICENSE).
+
+This project is a derived version of the main project : [https://github.com/fontello/cubic2quad](https://github.com/fontello/cubic2quad).
